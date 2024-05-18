@@ -3,7 +3,7 @@
 
 Neste arquivo armazenarei informações realacionadas a dicas de desenvolvimento de power Bi para serem aplicadas a em diversos projetos. Sempre de maneira ampla, precisando apenas de pequenos ajustes para realizar a aplicação das dicas em Dashboards futuros.
 
-## Forma de importar dados de forma otimizada de uma tabela de dados do EXCEL
+## 1 - Forma de importar dados de forma otimizada de uma tabela de dados do EXCEL
 
 <br> 1 - Realizar o carregamento normalmente do documento em **Excel* <br>
 <br> 2 - Selecionar a opção transformar dados para abrir o **Power Query** <br>
