@@ -5,17 +5,14 @@ Neste arquivo armazenarei informações realacionadas a dicas de desenvolvimento
 
 ## Forma de importar dados de forma otimizada de uma tabela de dados do EXCEL
 
-1 - Realizar o carregamento normalmente do documento em **Excel*;
+<br> 1 - Realizar o carregamento normalmente do documento em **Excel*;<br>
+<br> 2 - Acessar a informação transformar dados;<br>
 
-2 - Acessar a informação transformar dados;
-
-Todo arquivo **Excel** importado para o **Power BI** é binário incialmente antes de ser convertido para a sua função específica.
-
+<br>Todo arquivo **Excel** importado para o **Power BI** é binário incialmente antes de ser convertido para a sua função específica.<br>
 <br>Exemplo: Excel.workbook, csv.document, pdf.tables, etc.<br>
 Por isso é preciso converter esses valores em valores legiveis.
 
-3 - Para isso pode excluir o restante das colunas e apenas mantes a coluna que normalmente tem o nome de content ou terá as informações classificadas como **BINARY**
-
+<br> 3 - Para isso pode excluir o restante das colunas e apenas mantes a coluna que normalmente tem o nome de content ou terá as informações classificadas como **BINARY**<br>
 4 - Após a exclusão das outras coluna e tendo apenas a coluna com os dados em **Binary**, selecione a opção **COLUNA PERSONALIZADA**
 
 5 - Com a janela da coluna personalizada aberta, escrever no local da função = **excel.workbook([nome da coluna])**
