@@ -70,7 +70,7 @@ De modo geral, as empresa utilizam normalmente a lincensa Pro.
 As principais diferenças entres as medidas calculas e as colunas calculas são:
 
 <br> -  Medidas Calculadas: Utilizam informações do **contexto visual** ou seja são calculadas de acordo com os campos e os filtros inseridos em visuais ou em argumentos de suas funções. Realiza o calculo de **TODOS OS VALORES DA COLUNA** sem realizar a identificação de linha. <br>
-<br> - <b>Colunas Calculadas<\b>: As colunas calculadas utilizam as informações de **cada linha** da tabela. <br>
+<br> - <b>Colunas Calculadas<b>: As colunas calculadas utilizam as informações de **cada linha** da tabela. Lembrando que as colunas presentes na tabela obrigatóriamente possuem um contexto. <br>
 
 
 ## Documentação completa do Power Bi no site da Microsoft
