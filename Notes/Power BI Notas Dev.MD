@@ -16,7 +16,6 @@ Por isso é preciso converter esses valores em valores legiveis.
 <br> 4 - Após a exclusão das outras coluna e tendo apenas a coluna com os dados em **Binary**, selecione a opção **COLUNA PERSONALIZADA**
 <br> 5 - Com a janela da coluna personalizada aberta, escrever no local da função = **excel.workbook([nome da coluna])** <br>
     <br>Exemplo: **excel.workbook([Content])**<br>
-
 <br> 6 - Com isso será gerada uma tabela com as informações em formato **Table**, podendo assim apagar a coluna que tem os dados em formato **binary** neste caso apagar a coluna **Content** <br>
 
 ### Documentação completa do Power Bi no site da Microsoft
