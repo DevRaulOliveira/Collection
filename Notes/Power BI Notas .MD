@@ -63,7 +63,15 @@ De modo geral, as empresa utilizam normalmente a lincensa Pro.
 <br> 9 - Com uma unica coluna contendo apenas os dados **TABLE**. Selecionar a seta dupla que fica no cabeçalho desta coluna para expandir **finalmente** todas as colunas que possuem os dados que serão utilizados.<br>
 
 > [!CAUTION]
-> É imporante citar que o mesmo se aplica se forem para outros formatos de arquivo, como CSV, PDF e outros. Basta substituir no passo  **excel.workbook** por **csv.document**, 
+> É imporante citar que o mesmo se aplica se forem para outros formatos de arquivo, como CSV, PDF e outros. Basta substituir no passo  **excel.workbook** por **csv.document**
+
+## 3  - Diferenças entrre **Medidas Calculadas** e *Colunas Calculadas**
+
+As principais diferenças entres as medidas calculas e as colunas calculas são:
+
+<br> -  Medidas Calculadas: Utilizam informações do **contexto visual** ou seja são calculadas de acordo com os campos e os filtros inseridos em visuais ou em argumentos de suas funções. Realiza o calculo de **TODOS OS VALORES DA COLUNA** sem realizar a identificação de linha. <br>
+<br> - <b>Colunas Calculadas<\b>: As colunas calculadas utilizam as informações de **cada linha** da tabela. <br>
+
 
 ## Documentação completa do Power Bi no site da Microsoft
 
