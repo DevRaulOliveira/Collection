@@ -6,24 +6,24 @@ Neste arquivo armazenarei informações realacionadas a dicas de desenvolvimento
 
 ## 1 - Quais são os diferentes serviços de Power BI
 
-###Power BI Desktop
+### Power BI Desktop
 -  Serviço completo de manipulação de Dados;
 -  permite a realização de modelagem DAX e utilização da linguagem M;
 -  O relatório obrigatóriamente é publicado no app.powerbi.com;
 -  Pode ser acessados pelo celular e também pelo Desktop;
 
-###Power BI Embedded
+### Power BI Embedded
 - Serviço no qual o relatório pode ser publicado em site próprio, utilizando o sistema de login e senha;
 - Requer a utilização do serviço da Microsoft Azure;
 - Requer a criação de um projeto no Visual Studio;
 
-###Power BI Report Server
+### Power BI Report Server
 - O relatório fica armazenado em um servidor local, podendo apenas ser acessado no local da empresa;
 - Indisponível para celulares;
 - Maior nível de segurança por depender de acesso local para visualização do relatório;
 - Risco de perda de dados em caso de problemas, já que o dado está localizado em servidor Local.
 
-###Tipos de contas de serviço disponíveis e diferenças entre cada uma.
+### Tipos de contas de serviço disponíveis e diferenças entre cada uma.
 
 - Microsoft Power BI Gratuito;
 - Microsoft Power BI Pro;
