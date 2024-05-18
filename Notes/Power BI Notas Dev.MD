@@ -39,6 +39,8 @@ De modo geral, as empresa utilizam normalmente a lincensa Pro.
 
 ## 2 - Forma de importar dados de forma otimizada de uma tabela de dados do EXCEL
 
+<br> Modelo de carretamento de dados que aprendi ao longo do curso ministrado pela Karine Lago no **LinkedIn Learning ** <br>
+
 <br> 1 - Realizar o carregamento normalmente do documento em **Excel* <br>
 <br> 2 - Selecionar a opção transformar dados para abrir o **Power Query** <br>
 <br> 2 - **Manter** apenas a coluna **Content** ou a que possuir os dados em formato  **binary** podendo apagar o restant. <br>
