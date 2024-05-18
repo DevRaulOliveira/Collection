@@ -22,6 +22,7 @@ Por isso é preciso converter esses valores em valores legiveis.
 > Tabelas e planilhas são a mesma coisa, já que uma tabela é um conjunto de planilhas, por isso no passo 6 devem ser selecionadas as informações **Tables** para não ter duplicidade.
 
 <br> 7 - Com isso será gerada uma tabela com as informações em formato **Table**, podendo assim apagar o restante das colunas <br>
+<br> 8 - Com uma unica coluna contendo apenas os dados **TABLE**. Selecionar a seta dupla que fica no cabeçalho desta coluna para expandir todas as colunas que possuem os dados que serão utilizados. <br>
 
 ### Documentação completa do Power Bi no site da Microsoft
 
