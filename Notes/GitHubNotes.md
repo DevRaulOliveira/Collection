@@ -6,3 +6,6 @@
 ## Links com informações do Git Hub
 <br> Link de acesso com informações básicas de formatação para o Git Hub: <br>
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+<br> Link de acesso a lista de comandos uteis para o Git Hub: <br>
+https://gist.github.com/davidalves1/2f7cb1e58197ba6da0436512f508b21a
