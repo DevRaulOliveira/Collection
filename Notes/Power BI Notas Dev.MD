@@ -21,7 +21,7 @@ Por isso é preciso converter esses valores em valores legiveis.
 > [!NOTE]
 > Tabelas e planilhas são a mesma coisa, já que uma tabela é um conjunto de planilhas, por isso no passo 6 devem ser selecionadas as informações **Tables** para não ter duplicidade.
 
-<br> 7 - Com isso será gerada uma tabela com as informações em formato **Table**, podendo assim apagar a coluna que tem os dados em formato **binary** neste caso apagar a coluna **Content** <br>
+<br> 7 - Com isso será gerada uma tabela com as informações em formato **Table**, podendo assim apagar o restante das colunas <br>
 
 ### Documentação completa do Power Bi no site da Microsoft
 
