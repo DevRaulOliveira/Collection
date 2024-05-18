@@ -26,7 +26,7 @@ Neste arquivo armazenarei informações realacionadas a dicas de desenvolvimento
 <br> 8 - Com o filtro de tabela aplicado, pode assim apagar o restante das colunas <br>
 <br> 9 - Com uma unica coluna contendo apenas os dados **TABLE**. Selecionar a seta dupla que fica no cabeçalho desta coluna para expandir **finalmente** todas as colunas que possuem os dados que serão utilizados.<br>
 
-> [!CRITICAL]
+> [!CAUTION]
 > É imporante citar que o mesmo se aplica se forem para outros formatos de arquivo, como CSV, PDF e outros. Basta substituir no passo  **excel.workbook** por **csv.document**, 
 
 ## Documentação completa do Power Bi no site da Microsoft
