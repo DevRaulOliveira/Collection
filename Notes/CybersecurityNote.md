@@ -1,5 +1,5 @@
 # Cybersecurity
-![Hacker] (https://www.softsell.com.br/wp-content/uploads/2020/09/hacker-etico-tudo-o-que-voce-precisa-saber-sobre-essa-profissao-20200828142932.jpg.jpg)
+![Hacker](https://www.softsell.com.br/wp-content/uploads/2020/09/hacker-etico-tudo-o-que-voce-precisa-saber-sobre-essa-profissao-20200828142932.jpg.jpg)
 <br> Neste arquivo tem as anotações relacionadas a segurança de dados e cybersegurança. <br>
 
 ## 1 - Princpais pontos vulneraveis em sistemas.
