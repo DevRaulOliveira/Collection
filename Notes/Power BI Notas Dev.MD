@@ -11,7 +11,7 @@ Neste arquivo armazenarei informações realacionadas a dicas de desenvolvimento
 
 Todo arquivo **Excel** importado para o **Power BI** é binário incialmente antes de ser convertido para a sua função específica.
 
-Exemplo: Excel.workbook, csv.document, pdf.tables, etc.
+<br>Exemplo: Excel.workbook, csv.document, pdf.tables, etc.<\br>
 Por isso é preciso converter esses valores em valores legiveis.
 
 3 - Para isso pode excluir o restante das colunas e apenas mantes a coluna que normalmente tem o nome de content ou terá as informações classificadas como **BINARY**
