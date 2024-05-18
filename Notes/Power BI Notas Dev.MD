@@ -43,7 +43,7 @@ De modo geral, as empresa utilizam normalmente a lincensa Pro.
 
 <br> 1 - Realizar o carregamento normalmente do documento em **Excel** <br>
 <br> 2 - Selecionar a opção transformar dados para abrir o **Power Query** <br>
-<br> 2 - **Manter** apenas a coluna **Content** ou a que possuir os dados em formato  **binary** podendo apagar o restant. <br>
+<br> 2 - **Manter** apenas a coluna **Content** ou a que possuir os dados em formato  **binary** podendo apagar o restante. <br>
 <br> 3 - Acessar a informação transformar dados;<br>
 <br> 4 - Com a janela de transformar dados aberta, é só inserir a função **excel.workbook = ([Content])** <br>
 
