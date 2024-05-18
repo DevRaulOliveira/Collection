@@ -12,7 +12,7 @@ Todo arquivo **Excel** importado para o **Power BI** é binário incialmente ant
   Exemplo: Excel.workbook, csv.document, pdf.tables, etc.
 Por isso é preciso converter esses valores em valores legiveis.
 
-3 - Para isso pode excluir o restante das colunas e apenas mantes a coluna que normalmente tem o nome de content ou terá as informações classificadas como __**binary**__
+3 - Para isso pode excluir o restante das colunas e apenas mantes a coluna que normalmente tem o nome de content ou terá as informações classificadas como **BINARY**
 
 ### Documentação completa do Power Bi no site da Microsoft
 
