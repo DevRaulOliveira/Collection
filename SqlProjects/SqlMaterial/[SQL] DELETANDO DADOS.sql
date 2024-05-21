@@ -1,0 +1,18 @@
+-- "AULA 20 - "DELETANDO DADOS DE UMA COLUNA"
+-- Começando a aula já deixando selecionado o banco de dados que vou usar para fazer o uso dos operadores
+-- USANDO O COMANDO DELETE PARA APAGAR DADOS
+-- AULA 48
+
+-- MODELO DE ATUALIZAÇÃO DE DADOS
+USE sakila;
+
+SELECT * FROM actor;
+
+DELETE FROM actor
+	WHERE actor_id = 200
+    
+/*
+FORMA DE DELETAR VARIOS DADOS
+
+PODE SER USADO OPERADORES LOGICOS E OUTROS COMANDOS COMO BETWEEN, PARA REPRESENTAR O INTERVALO QUE DESEJA APAGAR
+*/
