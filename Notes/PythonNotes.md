@@ -32,4 +32,31 @@ print(f'Olá mundo! Meu nome é **{nome da variável}**') <br>
 print('Olá mundo! Meu nome é {}, tenho {} anos.'.format(**nome da primeira variável**,**nome da segunda variável**))<br>
 
 ## 3 - Comando INPUT
-O comando **INPUT** é utilizado quando se espera a entrada de informações por parte do usuário.
+
+O comando **INPUT** é utilizado quando se espera a entrada de informações por parte do usuário. 
+<br> O **INPUT** é composto por uma variável, seu  **TIPO** e posteriormente a pergunta que será realizada ao usuário para a coleta do dado, conforme estrutura a seguir: <br> 
+- variavel = tipo(**INPUT**('Pergunta realizada ao usuário: ')) <br>
+<br> - Exemplo 1: nome = str(input('Qual o seu nome? ')) 
+<br> - Exemplo 2: idade = int(input('Qual a sua idade? '))
+
+## 4 - Formas de posicionar dados no Print
+O comand **print** é responsável por imprimir informações no terminal, para isso a adição de dados pode ser realizada de várias formas as quais serão exemplificadas a seguir: <br>
+### 4.1 - Usando virgulas
+ Esta é a forma convencional de adicionar informações em uma exibição de print, sendo composta pela seguinte estrutura. <br>
+ - print('Mensagem impressa', nome da váriável)
+<br> - Exemplo 1: print('O meu nome é', nome)
+<br> - Exemplo 2: print('Eu tenho', idade ,'anos'.)
+
+### 4.2 - Usando {}
+<br> Esta forma de inserir o valor da variável utilizando o simbolo de **{}** durante a utilização do comando **PRINT**, possui a seguinte estrutura. <br> 
+- print('Mensagem impressa {nome da variável}')
+<br> - Exemplo 1: print('O meu nome é {nome}')
+<br> - Exemplo 2: print('Eu tenho {idade} anos')
+
+### 4.3 - Usando o comando format
+<br> Esta forma de inserção do valor da variável, possui uma particularidade diferente das outras, porque ele possui uma ordenação a ser respeitada para funcionar corretamente. Por tanto ao utilizar o **FORMAT** para realizar o input da variável é importante levar em consideração a seguinte estutura.
+- print('Assunto 1 {}, assunto 2 {}, assunto 3{}
+- print('Eu me chamo {}, tenho {} anos. Moro em {})
+
+
+
