@@ -1,0 +1,14 @@
+-- "AULA 11 - COMANDO JOIN"
+-- Começando a aula já deixando selecionada a tabela que vou usar para fazer o uso dos operadores
+-- USADO PARA A COMBINAÇÃO DE VARIAS TABELAS E COLUNAS EM UMA UNICA QUERY
+
+USE sakila;
+/*
+OBJETIVO MOSTRAR AS COLUNAS FIRST NAME E LAST NAME DA TABELA CUSTOMER
+COMBINANDO COM A COLUNA PAYMENT MOSTRANDO A COLUNA RENTAL ID E AMOUNT
+*/
+
+SELECT * FROM customer
+JOIN payment -- é a próxima tabela selecionada 
+ON customer.customer_id = payment.payment_id -- RELACIONANDO DUAS TABELAS, E ALINHANDO OS DADOS. CUSTOMER ALINHADO COM PAYMENT
+											 -- LEMBRANDO QUE PARA ISSO SER FEITO OS "id" PRECISAM SE COMUNICAR
