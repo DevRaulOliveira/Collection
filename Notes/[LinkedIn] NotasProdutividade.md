@@ -1,6 +1,6 @@
 # Como fazer anotações eficientes para aumentar sua produtividade.
 ![Imag](https://images.unsplash.com/photo-1617575521317-d2974f3b56d2?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
-## 1 - Por que fazer anotações é esencial para ser produtivo
+## 1 - Por que fazer anotações é essencial para ser produtivo
 A realização de anotações corretas e produtivas são necessárias para o aumento de assertividade na realização de tarefas ao longo do dia a dia por isso é importante sempre ter em mente um conjunto de fatores ao se preparar ou realizar anotações, tendo sempre em mente que as anotações precisam ter de fato uma utilidade, caso contrário acabam se tornando apenas uma perda de tempo ou desperdício de produtividade. <br>
 
 - Por isso é fundamental entender o objetivo geral de qualquer atividade, entender quais são so principais pontos a serem levados em consideração na conversa e anotar principalmente o que for de fato releante.  <br>
