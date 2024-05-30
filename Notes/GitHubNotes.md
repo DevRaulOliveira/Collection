@@ -22,7 +22,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 ### Cartões de perfil
 - Github Anuraghazra
-  <br> Link de acesso ao perfil com cartões de atividade no Git Hub.
+  <br> Link de acesso ao perfil com cartões de atividade no Git Hub.<br>
   https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 > [!NOTE]
