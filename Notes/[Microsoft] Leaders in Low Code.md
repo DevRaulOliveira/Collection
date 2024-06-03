@@ -22,3 +22,8 @@ A Microsoft tem investido constantemente nas ferramenas da Power Platform, sendo
 - Power Virtual Agent;
 - Power Pages.
 
+## Automatização de processos com a Power Platform
+![image](https://github.com/DevRaulOliveira/Collection/assets/168892121/a5a7ba04-9c35-41e8-a9c6-2933429c8aca)
+Este fluxograma apresentado pela EPIQ demonstra a oportunidade da realização de automatização de processos através do desenvolvimento de sistemas interligadas. Cada ferramenta atuando em um ponto do processo, agilizando o processo de desenvolvimento e também automatizando processos manuais repetitivos com o auxilio da IA Generativa Copilot.
+<br> Toda essa estrutura robusta tem como foco principal, melhorar a UX do cliente e usuário ao utilizar uma ferramenta desenvolvida utilizando essas ferramentas e interligar a criação de ferramentas com a geração de valor e aumento de eficiencia em processos.
+
