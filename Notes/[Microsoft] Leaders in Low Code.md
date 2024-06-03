@@ -1,5 +1,5 @@
 # Leaders in Low Code: An Epiq Transformation with Power Platform
-Uma conversa com Colton Coan, Gerente Senior de Desenvolvimento Rápido da Epiq
+Uma conversa com Colton Coan, Gerente Senior de Desenvolvimento Rápido da Epiq.
 ![Userexp](https://images.unsplash.com/photo-1516321497487-e288fb19713f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <br> O processo de desenvolvimento utilizando plataformas Low Code tem sido uma vertente que tem apresentado um crescimento exponencial, por ser uma forma inclusiva de desenvolvimento de sistemas mais rapida, inclusiva e intuitiva. Contudo é importante frisar que o desenvolvimento de sistemas deve estar atrelado com a percepção de valor do usuário em relação ao produto e a sua relevancia para o mercado.
@@ -15,3 +15,10 @@ A Microsoft tem investido constantemente nas ferramenas da Power Platform, sendo
 
 <br> Um dos principais catalizadores paa esse processo de aceleramento no desenvolvimento de ferramentas Low Code, foi a demanda crescente de desenvolvedores durante a Pandemia **COVID-19**. Esse período em conjunto com a explosão de demandas desenvolvimeto de sistemas foi o que motivou a evolução do pacote de programas Power Platform.
 <br> Esta iniciativa cresceu de forma dinamica devido a necessidade de desenvolvedores que entendam cada vez mais do processo no qual estão inseridos, permitindo assim o desenvolvimento de sistemas mais sustentáveis e que atendam melhor as necessidades do usuário.
+### Ferramentas que compõe o Power Platform
+- Power Apps;
+- Power BI;
+- Power Automate;
+- Power Virtual Agent;
+- Power Pages.
+
