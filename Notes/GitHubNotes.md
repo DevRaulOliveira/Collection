@@ -5,7 +5,7 @@
 
 ## Links com informações do Git Hub
 <br> Link de acesso com informações básicas de formatação para o Git Hub: <br>
-[Documentação de configurações de texto Site Oficial do Git Hub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[Sintaxe básica de gravação e formatação no GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 <br> Link de acesso a lista de comandos uteis para o Git Hub: <br>
 [Comandos para o Git Hub](https://gist.github.com/davidalves1/2f7cb1e58197ba6da0436512f508b21a)
