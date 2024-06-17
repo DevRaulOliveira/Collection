@@ -8,24 +8,29 @@
 https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 <br> Link de acesso a lista de comandos uteis para o Git Hub: <br>
-https://gist.github.com/davidalves1/2f7cb1e58197ba6da0436512f508b21a
+[Comandos para o Git Hub](https://gist.github.com/davidalves1/2f7cb1e58197ba6da0436512f508b21a)
+
+<br> Link com acervo de comandos uteis para textos e documentações no Git Hub: <br>
+[Comandos para documentações no Git Hub](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Links de personalização do GitHub
 ### Badges de perfil
 - Aveek Io
 <br> Link de acesso Aveek.io. <br>
-https://home.aveek.io/GitHub-Profile-Badges/
+[Badges de perfil Aveek.io](https://home.aveek.io/GitHub-Profile-Badges/)
 
 - Dev.to
   <br> Link de acesso ao Dev.io. <br>
-  https://dev.to/envoy_/150-badges-for-github-pnk
+[Badges de perfil Dev.io](https://dev.to/envoy_/150-badges-for-github-pnk)
 
 ### Cartões de perfil
 - Github Anuraghazra
   <br> Link de acesso ao perfil com cartões de atividade no Git Hub.<br>
-  https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+  [Acervo de cartões para o perfil](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 
 > [!NOTE]
 > Lembrando que no local com o nome de perfil no link é preciso realizar a troca para o nome do seu perfil de usuário!
+
+
 
 
